@@ -174,3 +174,6 @@ Locus treats **place as memory** 🧠📍🌍.
 Every street corner becomes a shared artifact 🏙️🎨✨.
 The world becomes writable 🖊️🌎🧩.
 
+![IMG_1155](https://github.com/user-attachments/assets/6e46d946-0705-4ca1-9e87-b627e7f6a45b)
+
+
