@@ -5,6 +5,8 @@
 **Locus** is a geospatial social canvas where the world itself becomes the feed 🌎📡🖍️. Instead of posting *about* places 📸📍💬, users draw, write, and leave images **directly on the map of reality** 🗺️✏️🧩. Every location becomes a collaborative layer of expression 🎭🌍🧠.
 
 ---
+<img width="860" height="613" alt="IMG_0995" src="https://github.com/user-attachments/assets/0e972a26-2d53-4e63-9a87-1eda6a24d079" />
+
 
 ## ⚡ Concept ⚡
 
